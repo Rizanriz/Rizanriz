@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rizwan</h1>
 <h3 align="center">A passionate FULLSTACK developer from India</h3>
 
-- 🔭 I’m currently working on **a Social Media app**
+- 🔭 At the moment am working on **a Social Media app**
 
 - 🌱 I’m currently learning **NEXT js**
 
