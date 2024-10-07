@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 At the moment am working on a Social Media app<br><br>🌱 I’m currently learning NEXT js<br><br>📫 How to reach me @mohdrizwanka@gmail.com<br><br>⚡ Fun fact : Self learned full stack developer
+🔭 At the moment am working on at Larnbuds <br><br>🌱 I’m currently learning NEXT js<br><br>📫 How to reach me @mohdrizwanka@gmail.com<br><br>⚡ Fun fact : Self learned full stack developer
 
 
 ## 🌐 Socials:
