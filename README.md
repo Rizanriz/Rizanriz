@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 At the moment am working at Druv 360°  <br><br>🌱 I’m currently learning NEXT js<br><br>📫 How to reach me @mohdrizwanka@gmail.com<br><br>⚡ Fun fact : Self learned full stack developer
+🔭 At the moment am working at Aarna  <br><br>🌱 I’m currently learning THREE js<br><br>📫 How to reach me @mohdrizwanka@gmail.com<br><br>⚡ Fun fact : Self learned full stack developer
 
 
 ## 🌐 Socials:
